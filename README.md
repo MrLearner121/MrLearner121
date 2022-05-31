@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrLearner121
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning networking
+- 🌱 I’m currently learning cryptography
 - 💞️ I’m looking to collaborate on cyber crime and open source projects
 - 📫 How to reach me -visit my profile
 
